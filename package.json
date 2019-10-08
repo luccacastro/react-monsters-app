@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luccacastro.github.io/monsters-rolodex",
+  "homepage": ".",
   "dependencies": {
     "babel-preset-react-app": "^7.0.0",
     "gh-pages": "^2.1.1",
